@@ -13,6 +13,7 @@ public class PassportRequest {
     //конструктор по умолчанию
     public PassportRequest() {}
 
+    //геттеры сеттеры
     public String getFirstName() { return firstName; }
     public void setFirstName(String firstName) { this.firstName = firstName; }
 
